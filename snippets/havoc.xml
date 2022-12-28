@@ -8,11 +8,11 @@
           fetch="https://gitlab.com" />
 
   <remote name="havoc"
-          fetch="https://github.com/Havoc-OS"
+          fetch="https://gitclone.com/github.com/Havoc-OS"
           revision="ten" />
 
   <remote name="havoc-devices"
-          fetch="https://github.com/Havoc-Devices"
+          fetch="https://gitclone.com/github.com/Havoc-Devices"
           revision="ten" />
 
   <remote name="havoc-gapps"
